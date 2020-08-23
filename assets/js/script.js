@@ -34,7 +34,7 @@ $(document).ready(function() {
 
     $(".vector").hover(function() {
         if (confirm("I've Talked about this particular topic in my old Portfolio, Want to check it out?")) {
-            window.location.href = "https://sites.google.com/umail.uom.ac.mu/djson/visual-communication/raster-vs-vector";
+            window.location.href = "";
         }
     });
 });
@@ -106,20 +106,26 @@ window.onclick = function(event) {
     }
 }
 
-// function openPage(page) {
-//     if (page == 'Valentines') {
-//         window.open('./assets/images/AdobeAnimate/AdobeAnimate_Animations/Valentines/ValentinesCard.html', '_blank')
-//     }
-//     if (page == 'DragDrop') {
-//         window.open('./assets/images/AdobeAnimate/AdobeAnimate_Animations/Drag_and_Drop/DragDrop.html', '_blank')
-//     }
-//     if (page == 'practical_ad') {
-//         window.open('./assets/images/AdobeAnimate/AdobeAnimate_Animations/Practical_ad/practical5js.html', '_blank')
-//     }
-//     if (page == 'corona') {
-//         window.open('./assets/images/AdobeAnimate/AdobeAnimate_Animations/Corona/coronaanimation.html', '_blank')
-//     }
-//     if (page == 'coro-game') {
-//         window.open('./assets/images/AdobeAnimate/AdobeAnimate_Animations/CoroGame/yash.html', '_blank')
-//     }
-// }
+function openPage(page) {
+    if (page == 'kitloonpoh') {
+        window.open('./assets/website/index.html', '_blank')
+    }
+    if (page == 'portal') {
+        window.open('', '_blank')
+    }
+    if (page == 'leasing') {
+        window.open('', '_blank')
+    }
+    if (page == 'kinghooman') {
+        window.open('https://www.construct.net/en/free-online-games/king-hooman-12269/1575e74b-ee0b-4f52-b82c-82449dc03e33', '_blank')
+    }
+    if (page == 'platfomer') {
+        window.open('https://www.construct.net/en/free-online-games/platformer-12821/824c6217-e539-4e87-92f0-4b097fec5060', '_blank')
+    }
+    if (page == 'ztproject') {
+        window.open('', '_blank')
+    }
+    if (page == 'physics') {
+        window.open('', '_blank')
+    }
+}
