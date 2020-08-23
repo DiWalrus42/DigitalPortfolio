@@ -1,0 +1,128 @@
+a:hover{
+  text-decoration: none;
+}
+
+.navbar-nav li{
+  padding-right: 20px;
+}
+
+#table{
+  padding-top: 20px;
+}
+
+#time, #link, #navbarDropdown, .dropdown-item{
+  color: #9900CC;
+}
+
+.dropdown:hover > .dropdown-menu{
+  display:block;
+}
+
+#body{
+  color: white;
+  background-image: url(../../images/thanks.gif);
+  background-color: black;
+  background-position: center;
+  padding: 15px;
+
+}
+
+#pic{
+  float: right;
+  border-radius: 50px;
+  width: 50px;
+  left: 30px;
+}
+
+.dropdown-item:hover{
+  background-color: #9900CC;
+  color: #ffffff;
+}
+
+.carousel-inner img{
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-caption{
+  background-color: #ffffff;
+  opacity: .65;
+}
+
+.carousel-caption h2, p{
+  color: #000000;
+}
+
+#cards{
+  padding-bottom: 15px;
+}
+
+#cards h4{
+  color: black;
+}
+
+.btn-outline{
+  background-color: #ffffff;
+  border-color: #9900CC;
+  color: #9900CC;
+}
+
+.btn-outline:hover{
+  background-color: #9900CC;
+  color: #ffffff;
+}
+
+form > div{
+  padding: 10px;
+}
+
+footer{
+  background-image: url(../../images/footer.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+footer p, #mail{
+  color: #ffffff;
+}
+
+footer h4{
+  color: #ffffff;
+}
+
+footer hr{
+  border: 0.5px solid #ffffff;
+  width: 80%;
+}
+
+footer hr.line{
+  border: 0.5px solid #ffffff;
+  width: 100%;
+}
+
+footer div.col-12{
+  color: #17202A;
+}
+
+.social a{
+  font-size: 30px;
+  padding: 15px;
+}
+
+.fa-facebook{
+  color: #3b5998;
+}
+
+.fa-instagram{
+  color: #517fa8;
+}
+
+.fa-twitter{
+  color: #00aced;
+}
+
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover{
+  color: #d5d5d5;
+}

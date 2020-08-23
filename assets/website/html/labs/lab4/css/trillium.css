@@ -1,0 +1,32 @@
+body{
+background-color: #edf7de;
+color: #191970;
+}
+h1{
+background-color: #d5edb3;
+color: #5c743d;
+height: 86px;
+}
+img{
+border-style: none;
+}
+h2{
+background-color: #d5edb3;
+color: #5c743d;
+background-image: url(image/trilliumbg.gif);
+background-repeat: no-repeat;
+background-position: left;
+padding-left: 30px;
+}
+#nav {
+background-color: #edf7de;
+}
+.feature {
+color: #FF0000;
+}
+#footer {
+color: #333333;
+}
+.companyname{
+color: #6A6AA7;
+}
