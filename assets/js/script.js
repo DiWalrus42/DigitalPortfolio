@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    if (window.location.href.includes('index.html') || window.location.href == "http://127.0.0.1:8080/"|| window.location.href == "http://127.0.0.1:5500/" || window.location.href == "https://diwalrus42.github.io/DigitalPortfolio/") {
+    if (window.location.href.includes('index.html') || window.location.href == "http://127.0.0.1:8080/"|| window.location.href == "http://127.0.0.1:5500/" || window.location.href == "https://github.com/DiWalrus42/DigitalPortfolio") {
         // alert("test");
         const titleText = document.querySelector('.titleText');
         const welcomeMsg = document.querySelector('.welcomeMsg');
