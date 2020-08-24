@@ -119,7 +119,7 @@ function openPage(page) {
     if (page == 'kinghooman') {
         window.open('https://www.construct.net/en/free-online-games/king-hooman-12269/1575e74b-ee0b-4f52-b82c-82449dc03e33', '_blank')
     }
-    if (page == 'platfomer') {
+    if (page == 'platformer') {
         window.open('https://www.construct.net/en/free-online-games/platformer-12821/824c6217-e539-4e87-92f0-4b097fec5060', '_blank')
     }
     if (page == 'ztproject') {
