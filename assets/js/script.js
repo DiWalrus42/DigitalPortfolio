@@ -123,7 +123,7 @@ function openPage(page) {
         window.open('https://www.construct.net/en/free-online-games/platformer-12821/824c6217-e539-4e87-92f0-4b097fec5060', '_blank')
     }
     if (page == 'ztproject') {
-        window.open('', '_blank')
+        window.open('https://www.construct.net/en/free-online-games/ztproject-16915/e7ebc322-75e7-40a6-ae31-4c056796bde0', '_blank')
     }
     if (page == 'physics') {
         window.open('https://www.construct.net/en/free-online-games/johns-cargo-delivery-16912/6f651b6f-a0e7-4f2d-b7b2-3f5c1715f95f', '_blank')
