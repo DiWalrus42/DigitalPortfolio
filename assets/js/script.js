@@ -122,6 +122,9 @@ function openPage(page) {
     if (page == 'platformer') {
         window.open('https://www.construct.net/en/free-online-games/platformer-12821/824c6217-e539-4e87-92f0-4b097fec5060', '_blank')
     }
+    if (page == 'plane') {
+        window.open('https://www.construct.net/en/free-online-games/tappyplane-17043/7126d932-90fd-46a9-b0a1-0542ddc19f7a', '_blank')
+    }
     if (page == 'ztproject') {
         window.open('https://www.construct.net/en/free-online-games/ztproject-16915/e7ebc322-75e7-40a6-ae31-4c056796bde0', '_blank')
     }
