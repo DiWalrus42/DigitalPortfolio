@@ -131,4 +131,7 @@ function openPage(page) {
     if (page == 'physics') {
         window.open('https://www.construct.net/en/free-online-games/johns-cargo-delivery-16912/6f651b6f-a0e7-4f2d-b7b2-3f5c1715f95f', '_blank')
     }
+    if (page == 'physics') {
+        window.open('./assets/JS_Clock/index.html', '_blank')
+    }
 }
